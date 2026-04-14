@@ -1,0 +1,17 @@
+# LangChain 핵심
+langchain
+langchain-community
+langchain-huggingface
+langchain-openai
+
+# 벡터 검색
+faiss-cpu
+
+# PDF 파싱
+pymupdf
+
+# 임베딩 모델
+sentence-transformers
+
+# 진행바
+tqdm
