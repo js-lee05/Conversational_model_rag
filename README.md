@@ -32,8 +32,10 @@ CONVERSATIONAL_MODEL_RAG/
     └── rag_evaluation/         ← 성능 평가
         ├── results/
         │   ├── ragas_chunk_512.csv
+        │   ├── ragas_chunk_800.csv
         │   └── ragas_chunk_1024.csv
         ├── ragas_chunk_512.ipynb
+        ├── ragas_chunk_800.ipynb
         ├── ragas_chunk_1024.ipynb
         └── README.md
 ```
