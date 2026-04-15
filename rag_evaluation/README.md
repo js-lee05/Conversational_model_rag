@@ -56,7 +56,7 @@ rag_evaluation/
    pip install ragas datasets pandas
 
 3. 노트북 실행
-   ragas_chunk_512.ipynb  또는  ragas_chunk_1024.ipynb 열어서 순서대로 실행
+   ragas_chunk_*.ipynb 열어서 순서대로 실행
 
 4. OpenAI API 키 설정 필요
    os.environ["OPENAI_API_KEY"] = "sk-..."
